@@ -15,5 +15,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pc06500/formation2020/master?filepath=refraction2_pres.ipynb)
 
 ### TP Titrage conductimétrique
-[![Binder](https://mybinder.org/v2/gh/pc06500/formation2020/cc32f97128cf7e76b1f45e2e0870f6633e8cf9ca?filepath=TP%20%20Titrage%20avec%20suivi%20conductim%C3%A9trique.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pc06500/formation2020/cc32f97128cf7e76b1f45e2e0870f6633e8cf9ca?filepath=TP%20%20Titrage%20avec%20suivi%20conductim%C3%A9trique.ipynb)
 
